@@ -7,6 +7,9 @@ A curated list of awesome Kong Gateway and plugins. Inspired by [awesome-go](htt
 - [Plugins](#plugins)
     - [Response Cache](#response-cache)
     - [Transformations](#transformations)
+- [GUI](#gui)
+- [Configuration](#configuration)
+
 
 # Plugins
 
@@ -24,3 +27,7 @@ A curated list of awesome Kong Gateway and plugins. Inspired by [awesome-go](htt
 
 # GUI
 * [konga](https://github.com/pantsel/konga) - More than just another GUI to KONG Admin API - Konga is not an official app, no affiliation with Kong. ![open](https://img.shields.io/badge/Kong-open%20source-brightgreen) ![DB-less compatible](https://img.shields.io/badge/DB--less-not%20compatible-red)
+
+# Configuration
+* [decK](https://github.com/Kong/deck) - Provides declarative configuration and drift detection for Kong. ![open](https://img.shields.io/badge/Kong-open%20source-brightgreen) ![DB-less compatible](https://img.shields.io/badge/DB--less-compatible-blue)
+
