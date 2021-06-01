@@ -35,3 +35,5 @@ A curated list of awesome Kong Gateway and plugins. Inspired by [awesome-go](htt
 # Configuration
 * [decK](https://github.com/Kong/deck) - Provides declarative configuration and drift detection for Kong. ![Open Source](https://img.shields.io/badge/Kong-open%20source-brightgreen) ![DB-less compatible](https://img.shields.io/badge/DB--less-compatible-blue)
 
+* [pongo](https://github.com/Kong/kong-pongo) - Pongo provides a simple way of testing Kong plugins. ![Open Source](https://img.shields.io/badge/Kong-open%20source-brightgreen)
+
